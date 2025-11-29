@@ -1,0 +1,6 @@
+@ScormBuilder.Api_HostAddress = http://localhost:5256
+
+GET {{ScormBuilder.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
